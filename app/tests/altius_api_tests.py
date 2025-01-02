@@ -259,3 +259,6 @@ def test_delete_comment(post_comment_id, get_auth_token):
 
     assert 'Successful' in response_data.get('message'), (f"Expected 'Successful', got instead {response_data['message']}."
                                                           f" Response: {response_data}")
+
+
+
