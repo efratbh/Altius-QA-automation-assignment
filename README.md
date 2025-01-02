@@ -2,9 +2,11 @@
 
 ## Overview
 ````
-This test suite evaluates the login functionality and deal retrieval endpoints of the system. 
-The tests are designed to verify successful login, various failure scenarios, 
-lockout mechanisms, and proper authorization for retrieving deals.
+This report provides an evaluation of the system's login functionality and deal-related operations. 
+The primary focus is on verifying successful user login, handling various failure scenarios, 
+and ensuring proper authorization mechanisms for deal retrieval. 
+In addition, the report covers the functionality of posting, updating, and deleting comments on deals,
+as well as filtering forms associated with deals.
 ````
 ## Pip Install
 ````
